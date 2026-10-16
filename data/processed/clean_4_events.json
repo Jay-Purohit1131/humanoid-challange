@@ -1,0 +1,23 @@
+{
+  "clip": "clean_4",
+  "fps": 59.94423791821561,
+  "px_per_cm": 24.46,
+  "grasp_frame": 261,
+  "release_frame": 724,
+  "grasp_t": 4.354,
+  "release_t": 12.078,
+  "naive_grasp_t": 6.74,
+  "regrasp_detected": false,
+  "cube_start_px": [
+    1627.1,
+    824.1
+  ],
+  "cube_end_px": [
+    184.4,
+    684.5
+  ],
+  "carry_cm": 59.3,
+  "warnings": [
+    "cube not visible for 2.4 s after the grasp (timing uncertain)"
+  ]
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.8,
+    "scene": 0
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.8,
+    "scene": 1
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 12.6,
+    "cube_to_target_cm": 1.6,
+    "scene": 2
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.6,
+    "scene": 3
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.9,
+    "scene": 4
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.7,
+    "scene": 5
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.3,
+    "cube_to_target_cm": 1.7,
+    "scene": 6
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.7,
+    "scene": 7
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.3,
+    "cube_to_target_cm": 1.8,
+    "scene": 8
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.8,
+    "scene": 9
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.7,
+    "scene": 10
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.8,
+    "scene": 11
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.2,
+    "cube_to_target_cm": 1.8,
+    "scene": 12
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.8,
+    "scene": 13
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.1,
+    "cube_to_target_cm": 1.6,
+    "scene": 14
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.7,
+    "scene": 15
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.7,
+    "scene": 16
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.7,
+    "scene": 17
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.7,
+    "scene": 18
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.3,
+    "cube_to_target_cm": 1.7,
+    "scene": 19
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.7,
+    "scene": 20
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.7,
+    "scene": 21
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.8,
+    "scene": 22
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.2,
+    "cube_to_target_cm": 1.8,
+    "scene": 23
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.7,
+    "scene": 24
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.2,
+    "cube_to_target_cm": 1.7,
+    "scene": 25
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.3,
+    "cube_to_target_cm": 1.7,
+    "scene": 26
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.3,
+    "cube_to_target_cm": 1.7,
+    "scene": 27
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.2,
+    "cube_to_target_cm": 1.7,
+    "scene": 28
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.7,
+    "scene": 29
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.2,
+    "cube_to_target_cm": 1.7,
+    "scene": 30
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.2,
+    "cube_to_target_cm": 1.7,
+    "scene": 31
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.7,
+    "scene": 32
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.7,
+    "scene": 33
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.8,
+    "scene": 34
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.8,
+    "scene": 35
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.7,
+    "scene": 36
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.6,
+    "scene": 37
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.2,
+    "cube_to_target_cm": 1.6,
+    "scene": 38
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.7,
+    "scene": 39
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.3,
+    "cube_to_target_cm": 1.6,
+    "scene": 40
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 2.0,
+    "scene": 41
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.9,
+    "scene": 42
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.3,
+    "cube_to_target_cm": 1.6,
+    "scene": 43
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.5,
+    "cube_to_target_cm": 1.8,
+    "scene": 44
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.7,
+    "scene": 45
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.8,
+    "scene": 46
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.8,
+    "scene": 47
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.8,
+    "scene": 48
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.4,
+    "cube_to_target_cm": 1.7,
+    "scene": 49
+  }
+]

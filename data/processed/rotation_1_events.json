@@ -1,0 +1,21 @@
+{
+  "clip": "rotation_1",
+  "fps": 59.944779629819,
+  "px_per_cm": 24.48,
+  "grasp_frame": 361,
+  "release_frame": 587,
+  "grasp_t": 6.022,
+  "release_t": 9.792,
+  "naive_grasp_t": 3.236,
+  "regrasp_detected": true,
+  "cube_start_px": [
+    759.2,
+    537.9
+  ],
+  "cube_end_px": [
+    207.2,
+    755.9
+  ],
+  "carry_cm": 24.2,
+  "warnings": []
+}

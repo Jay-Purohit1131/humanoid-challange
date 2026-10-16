@@ -1,0 +1,21 @@
+{
+  "clip": "messy_3",
+  "fps": 59.9406528189911,
+  "px_per_cm": 24.4,
+  "grasp_frame": 577,
+  "release_frame": 661,
+  "grasp_t": 9.626,
+  "release_t": 11.028,
+  "naive_grasp_t": 9.476,
+  "regrasp_detected": false,
+  "cube_start_px": [
+    848.4,
+    550.6
+  ],
+  "cube_end_px": [
+    205.3,
+    710.9
+  ],
+  "carry_cm": 27.2,
+  "warnings": []
+}

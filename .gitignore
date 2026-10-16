@@ -8,3 +8,6 @@ data/raw/
 *.MOV
 *.mov
 models/hand_landmarker.task
+# regenerable media (README figures live in docs/media/)
+outputs/**/*.gif
+outputs/**/*.png

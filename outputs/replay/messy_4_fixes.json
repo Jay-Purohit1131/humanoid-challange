@@ -1,0 +1,113 @@
+{
+  "demo": {
+    "cube": [
+      -9.766985588354684e-18,
+      -0.11928239668155749,
+      0.8285000000000001
+    ],
+    "target": [
+      9.766985588354684e-18,
+      0.11928239668155749,
+      0.8
+    ],
+    "mapping": {
+      "rotation_deg": 160.92119369325937,
+      "centre_table_xy": [
+        0.15081812766240588,
+        -0.3926570254153285
+      ]
+    }
+  },
+  "trials": [
+    {
+      "seed": 0,
+      "success": true,
+      "lifted": true,
+      "placed": true,
+      "max_lift_cm": 10.3,
+      "cube_to_target_cm": 1.8,
+      "tracking_error_cm_median": 1.38,
+      "tracking_error_cm_max": 11.4,
+      "contact_fixes": true,
+      "points_changed": 71,
+      "points_total": 181,
+      "grip_pause_steps": 0,
+      "path_z_range_cm": [
+        2.3,
+        14.7
+      ]
+    },
+    {
+      "seed": 1,
+      "success": true,
+      "lifted": true,
+      "placed": true,
+      "max_lift_cm": 10.3,
+      "cube_to_target_cm": 1.9,
+      "tracking_error_cm_median": 1.4,
+      "tracking_error_cm_max": 11.43,
+      "contact_fixes": true,
+      "points_changed": 71,
+      "points_total": 181,
+      "grip_pause_steps": 0,
+      "path_z_range_cm": [
+        2.3,
+        14.7
+      ]
+    },
+    {
+      "seed": 2,
+      "success": true,
+      "lifted": true,
+      "placed": true,
+      "max_lift_cm": 10.3,
+      "cube_to_target_cm": 1.8,
+      "tracking_error_cm_median": 1.4,
+      "tracking_error_cm_max": 11.35,
+      "contact_fixes": true,
+      "points_changed": 71,
+      "points_total": 181,
+      "grip_pause_steps": 0,
+      "path_z_range_cm": [
+        2.3,
+        14.7
+      ]
+    },
+    {
+      "seed": 3,
+      "success": true,
+      "lifted": true,
+      "placed": true,
+      "max_lift_cm": 10.3,
+      "cube_to_target_cm": 1.7,
+      "tracking_error_cm_median": 1.41,
+      "tracking_error_cm_max": 11.47,
+      "contact_fixes": true,
+      "points_changed": 71,
+      "points_total": 181,
+      "grip_pause_steps": 0,
+      "path_z_range_cm": [
+        2.3,
+        14.7
+      ]
+    },
+    {
+      "seed": 4,
+      "success": true,
+      "lifted": true,
+      "placed": true,
+      "max_lift_cm": 10.3,
+      "cube_to_target_cm": 2.0,
+      "tracking_error_cm_median": 1.4,
+      "tracking_error_cm_max": 11.48,
+      "contact_fixes": true,
+      "points_changed": 71,
+      "points_total": 181,
+      "grip_pause_steps": 0,
+      "path_z_range_cm": [
+        2.3,
+        14.7
+      ]
+    }
+  ]
+}

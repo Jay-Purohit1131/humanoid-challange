@@ -1,0 +1,192 @@
+[
+  {
+    "clip": "clean_3",
+    "seed": 0,
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 1.2,
+    "cube_to_target_cm": 33.1,
+    "tracking_error_cm_median": 2.82,
+    "tracking_error_cm_max": 12.08,
+    "trajectory_s": 7.55,
+    "grip_pause_steps": 0,
+    "contact_fixes": false,
+    "points_changed": 0,
+    "points_total": 152,
+    "raw_min_z_cm": -2.8,
+    "cube_sim": [
+      0.0,
+      -0.16,
+      0.829
+    ],
+    "target_sim": [
+      -0.0,
+      0.16,
+      0.8
+    ],
+    "path_z_range_cm": [
+      -2.8,
+      21.3
+    ],
+    "mapping": {
+      "rotation_deg": 133.74140581590186,
+      "centre_table_xy": [
+        0.0593672804291584,
+        -0.4100956839179919
+      ]
+    }
+  },
+  {
+    "clip": "clean_3",
+    "seed": 1,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 11.5,
+    "cube_to_target_cm": 4.6,
+    "tracking_error_cm_median": 3.01,
+    "tracking_error_cm_max": 11.96,
+    "trajectory_s": 7.55,
+    "grip_pause_steps": 0,
+    "contact_fixes": false,
+    "points_changed": 0,
+    "points_total": 152,
+    "raw_min_z_cm": -2.8,
+    "cube_sim": [
+      0.0,
+      -0.16,
+      0.829
+    ],
+    "target_sim": [
+      -0.0,
+      0.16,
+      0.8
+    ],
+    "path_z_range_cm": [
+      -2.8,
+      21.3
+    ],
+    "mapping": {
+      "rotation_deg": 133.74140581590186,
+      "centre_table_xy": [
+        0.0593672804291584,
+        -0.4100956839179919
+      ]
+    }
+  },
+  {
+    "clip": "clean_3",
+    "seed": 2,
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 1.4,
+    "cube_to_target_cm": 35.3,
+    "tracking_error_cm_median": 2.95,
+    "tracking_error_cm_max": 11.84,
+    "trajectory_s": 7.55,
+    "grip_pause_steps": 0,
+    "contact_fixes": false,
+    "points_changed": 0,
+    "points_total": 152,
+    "raw_min_z_cm": -2.8,
+    "cube_sim": [
+      0.0,
+      -0.16,
+      0.829
+    ],
+    "target_sim": [
+      -0.0,
+      0.16,
+      0.8
+    ],
+    "path_z_range_cm": [
+      -2.8,
+      21.3
+    ],
+    "mapping": {
+      "rotation_deg": 133.74140581590186,
+      "centre_table_xy": [
+        0.0593672804291584,
+        -0.4100956839179919
+      ]
+    }
+  },
+  {
+    "clip": "clean_3",
+    "seed": 3,
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.8,
+    "cube_to_target_cm": 32.5,
+    "tracking_error_cm_median": 2.88,
+    "tracking_error_cm_max": 11.86,
+    "trajectory_s": 7.55,
+    "grip_pause_steps": 0,
+    "contact_fixes": false,
+    "points_changed": 0,
+    "points_total": 152,
+    "raw_min_z_cm": -2.8,
+    "cube_sim": [
+      0.0,
+      -0.16,
+      0.829
+    ],
+    "target_sim": [
+      -0.0,
+      0.16,
+      0.8
+    ],
+    "path_z_range_cm": [
+      -2.8,
+      21.3
+    ],
+    "mapping": {
+      "rotation_deg": 133.74140581590186,
+      "centre_table_xy": [
+        0.0593672804291584,
+        -0.4100956839179919
+      ]
+    }
+  },
+  {
+    "clip": "clean_3",
+    "seed": 4,
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 1.4,
+    "cube_to_target_cm": 33.2,
+    "tracking_error_cm_median": 2.94,
+    "tracking_error_cm_max": 11.94,
+    "trajectory_s": 7.55,
+    "grip_pause_steps": 0,
+    "contact_fixes": false,
+    "points_changed": 0,
+    "points_total": 152,
+    "raw_min_z_cm": -2.8,
+    "cube_sim": [
+      0.0,
+      -0.16,
+      0.829
+    ],
+    "target_sim": [
+      -0.0,
+      0.16,
+      0.8
+    ],
+    "path_z_range_cm": [
+      -2.8,
+      21.3
+    ],
+    "mapping": {
+      "rotation_deg": 133.74140581590186,
+      "centre_table_xy": [
+        0.0593672804291584,
+        -0.4100956839179919
+      ]
+    }
+  }
+]

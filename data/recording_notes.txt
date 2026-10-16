@@ -1,0 +1,48 @@
+RECORDING NOTES — humanoid challenge
+
+=== SESSION ===
+Date / time:        Sun 11 Oct 2026, __:__–__:__
+Location:           ____ (e.g. desk at home)
+Lighting:           ____ (e.g. daylight from window on the left + ceiling light; no desk lamp)
+
+=== CAMERA (repeat EXACTLY for the depth + calibration clips tomorrow) ===
+Phone / app:        iPhone 13 Pro Max, stock Camera app
+Lens / mode:        1x, Video mode
+Format:             1080p, 60 fps, landscape
+Settings:           HDR Video off, Enhanced Stabilization off, Action mode off,
+                    Lock Camera on, auto-macro off, Most Compatible format
+Focus/exposure:     AE/AF lock on the table at ____ (e.g. centre of the cube zone), exposure -0.7
+Mount:              ____ (e.g. tripod with arm / phone on a shelf)
+Camera height:      ~__ cm above the table, tilted ~__ deg back towards me
+
+=== MEASUREMENTS (ruler) ===
+Cube edge:              __ mm
+ArUco marker (black):   __ mm      (DICT_4X4_50, ID 0)
+Target square side:     __ mm
+Checkerboard square:    25 mm      (10 x 7 squares, 9 x 6 inner corners)
+Hand, wrist -> middle-finger base (0->9): __ mm
+Book stack height:      __ mm      (for the depth check, tomorrow)
+
+=== LAYOUT (as seen in the image) ===
+Marker:             ____ corner (e.g. top-left), __ cm from the cube zone
+Cube zone:          left side, roughly __ x __ cm
+Target:             right side, centre about __ cm from the cube zone's centre
+Grasp:              thumb + index on opposite side faces, mid-height; blue face up
+Cube orientation:   sides parallel to ____ (e.g. the table edge) in every clip
+
+=== CLIP LOG ===
+file            type      cube start position      notes
+test_clip       test      ____                     used to tune HSV (cube H 93, S 128, V 226)
+clean_01        clean     ____ (e.g. near-left)
+clean_02        clean     ____
+...
+messy_01        messy     ____                     hesitation ~1 s halfway to the cube
+messy_02        messy     ____                     mid-air pause ~2 s while carrying
+messy_03        messy     ____                     re-grasp: put down, let go, grasp again
+messy_04        messy     ____                     overshoot past the target, came back
+rotate_01       rotate    ____                     rotated ~__ deg about vertical, blue stayed up
+
+=== TO DO / ISSUES ===
+- Calibration: provisional (RMS 1.4 px). Re-record tomorrow with a rigid, propped board.
+- Depth-check clip: record tomorrow, same camera settings.
+- ____ (anything odd: light changed, hand left frame, cube slipped, clip to redo...)

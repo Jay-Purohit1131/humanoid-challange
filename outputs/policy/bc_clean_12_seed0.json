@@ -1,0 +1,402 @@
+[
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 14.0,
+    "cube_to_target_cm": 1.5,
+    "scene": 0
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.9,
+    "cube_to_target_cm": 1.5,
+    "scene": 1
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 19.9,
+    "scene": 2
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.3,
+    "scene": 3
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.9,
+    "cube_to_target_cm": 1.6,
+    "scene": 4
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 38.3,
+    "scene": 5
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 38.2,
+    "scene": 6
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.9,
+    "cube_to_target_cm": 1.5,
+    "scene": 7
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.7,
+    "scene": 8
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.7,
+    "scene": 9
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 30.8,
+    "scene": 10
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.5,
+    "scene": 11
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.5,
+    "scene": 12
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 14.1,
+    "cube_to_target_cm": 1.6,
+    "scene": 13
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.3,
+    "cube_to_target_cm": 1.4,
+    "scene": 14
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 35.5,
+    "scene": 15
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 33.9,
+    "scene": 16
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 40.7,
+    "scene": 17
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.7,
+    "scene": 18
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.7,
+    "scene": 19
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 34.2,
+    "scene": 20
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 33.3,
+    "scene": 21
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 35.9,
+    "scene": 22
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 35.3,
+    "scene": 23
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 31.1,
+    "scene": 24
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 39.2,
+    "scene": 25
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 35.4,
+    "scene": 26
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.6,
+    "scene": 27
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 36.6,
+    "scene": 28
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.9,
+    "cube_to_target_cm": 1.4,
+    "scene": 29
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 33.7,
+    "scene": 30
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 32.0,
+    "scene": 31
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 34.6,
+    "scene": 32
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.9,
+    "cube_to_target_cm": 1.6,
+    "scene": 33
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.9,
+    "cube_to_target_cm": 27.8,
+    "scene": 34
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.4,
+    "scene": 35
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 14.0,
+    "cube_to_target_cm": 1.5,
+    "scene": 36
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.8,
+    "scene": 37
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 31.3,
+    "scene": 38
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.5,
+    "scene": 39
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 37.2,
+    "scene": 40
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 38.1,
+    "scene": 41
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 37.4,
+    "scene": 42
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 39.2,
+    "scene": 43
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 14.0,
+    "cube_to_target_cm": 1.5,
+    "scene": 44
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 14.1,
+    "cube_to_target_cm": 1.5,
+    "scene": 45
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 39.8,
+    "scene": 46
+  },
+  {
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 14.0,
+    "cube_to_target_cm": 1.8,
+    "scene": 47
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 37.1,
+    "scene": 48
+  },
+  {
+    "success": false,
+    "lifted": false,
+    "placed": false,
+    "max_lift_cm": 0.0,
+    "cube_to_target_cm": 32.4,
+    "scene": 49
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "clip": "clean_8",
+  "success": false,
+  "lifted": false,
+  "placed": false,
+  "max_lift_cm": 0.0,
+  "cube_to_target_cm": 36.8,
+  "tracking_error_cm_median": 2.01,
+  "tracking_error_cm_max": 16.27,
+  "trajectory_s": 9.25,
+  "grip_pause_steps": 10,
+  "contact_fixes": true,
+  "points_changed": 79,
+  "points_total": 186,
+  "raw_min_z_cm": 0.3,
+  "cube_sim": [
+    0.0,
+    -0.184,
+    0.829
+  ],
+  "target_sim": [
+    -0.0,
+    0.184,
+    0.8
+  ],
+  "path_z_range_cm": [
+    2.3,
+    25.3
+  ],
+  "mapping": {
+    "rotation_deg": 191.73020970358593,
+    "centre_table_xy": [
+      0.2118319805907104,
+      -0.33807327450581537
+    ]
+  }
+}

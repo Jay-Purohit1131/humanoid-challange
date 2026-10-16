@@ -1,0 +1,2352 @@
+[
+  {
+    "seed": 0,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.6,
+    "tracking_error_cm_median": 1.67,
+    "tracking_error_cm_max": 5.71,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 0,
+    "cube": [
+      0.0411,
+      -0.2082,
+      0.8285
+    ],
+    "target": [
+      -0.1377,
+      0.0369,
+      0.8
+    ],
+    "cube_shift_cm": 6.9,
+    "target_shift_cm": 18.0,
+    "cube_offset": [
+      0.0411,
+      -0.0553
+    ],
+    "target_offset": [
+      -0.1377,
+      -0.116
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 1,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.53,
+    "tracking_error_cm_max": 5.57,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 1,
+    "cube": [
+      0.094,
+      -0.0539,
+      0.8285
+    ],
+    "target": [
+      0.032,
+      0.208,
+      0.8
+    ],
+    "cube_shift_cm": 13.7,
+    "target_shift_cm": 6.4,
+    "cube_offset": [
+      0.094,
+      0.0991
+    ],
+    "target_offset": [
+      0.032,
+      0.0551
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 2,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.58,
+    "tracking_error_cm_max": 6.18,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 2,
+    "cube": [
+      0.1072,
+      -0.2649,
+      0.8285
+    ],
+    "target": [
+      0.0689,
+      0.0751,
+      0.8
+    ],
+    "cube_shift_cm": 15.5,
+    "target_shift_cm": 10.4,
+    "cube_offset": [
+      0.1072,
+      -0.1119
+    ],
+    "target_offset": [
+      0.0689,
+      -0.0778
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 3,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.63,
+    "tracking_error_cm_max": 5.86,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 3,
+    "cube": [
+      0.109,
+      -0.143,
+      0.8285
+    ],
+    "target": [
+      -0.0601,
+      0.1344,
+      0.8
+    ],
+    "cube_shift_cm": 10.9,
+    "target_shift_cm": 6.3,
+    "cube_offset": [
+      0.109,
+      0.01
+    ],
+    "target_offset": [
+      -0.0601,
+      -0.0186
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 4,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.7,
+    "tracking_error_cm_max": 8.02,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 4,
+    "cube": [
+      -0.1415,
+      -0.2431,
+      0.8285
+    ],
+    "target": [
+      0.0512,
+      0.1883,
+      0.8
+    ],
+    "cube_shift_cm": 16.8,
+    "target_shift_cm": 6.2,
+    "cube_offset": [
+      -0.1415,
+      -0.0902
+    ],
+    "target_offset": [
+      0.0512,
+      0.0353
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 5,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.4,
+    "tracking_error_cm_median": 1.72,
+    "tracking_error_cm_max": 8.12,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 5,
+    "cube": [
+      0.0346,
+      -0.1809,
+      0.8285
+    ],
+    "target": [
+      0.1492,
+      0.2683,
+      0.8
+    ],
+    "cube_shift_cm": 4.4,
+    "target_shift_cm": 18.9,
+    "cube_offset": [
+      0.0346,
+      -0.0279
+    ],
+    "target_offset": [
+      0.1492,
+      0.1154
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 6,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.54,
+    "tracking_error_cm_max": 5.52,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 6,
+    "cube": [
+      0.0557,
+      -0.1168,
+      0.8285
+    ],
+    "target": [
+      0.0565,
+      0.1263,
+      0.8
+    ],
+    "cube_shift_cm": 6.6,
+    "target_shift_cm": 6.3,
+    "cube_offset": [
+      0.0557,
+      0.0361
+    ],
+    "target_offset": [
+      0.0565,
+      -0.0267
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 7,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.3,
+    "tracking_error_cm_median": 1.59,
+    "tracking_error_cm_max": 5.89,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 7,
+    "cube": [
+      -0.1095,
+      -0.0998,
+      0.8285
+    ],
+    "target": [
+      0.0076,
+      0.1074,
+      0.8
+    ],
+    "cube_shift_cm": 12.2,
+    "target_shift_cm": 4.6,
+    "cube_offset": [
+      -0.1095,
+      0.0532
+    ],
+    "target_offset": [
+      0.0076,
+      -0.0455
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 8,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.6,
+    "tracking_error_cm_max": 5.81,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 8,
+    "cube": [
+      -0.0042,
+      -0.0595,
+      0.8285
+    ],
+    "target": [
+      0.1302,
+      0.1188,
+      0.8
+    ],
+    "cube_shift_cm": 9.4,
+    "target_shift_cm": 13.5,
+    "cube_offset": [
+      -0.0042,
+      0.0935
+    ],
+    "target_offset": [
+      0.1302,
+      -0.0341
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 9,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.6,
+    "tracking_error_cm_median": 1.67,
+    "tracking_error_cm_max": 6.14,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 9,
+    "cube": [
+      0.0215,
+      -0.1957,
+      0.8285
+    ],
+    "target": [
+      0.0283,
+      0.114,
+      0.8
+    ],
+    "cube_shift_cm": 4.8,
+    "target_shift_cm": 4.8,
+    "cube_offset": [
+      0.0215,
+      -0.0428
+    ],
+    "target_offset": [
+      0.0283,
+      -0.0389
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 10,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.66,
+    "tracking_error_cm_max": 5.69,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 10,
+    "cube": [
+      -0.0325,
+      -0.0593,
+      0.8285
+    ],
+    "target": [
+      -0.0819,
+      0.1825,
+      0.8
+    ],
+    "cube_shift_cm": 9.9,
+    "target_shift_cm": 8.7,
+    "cube_offset": [
+      -0.0325,
+      0.0937
+    ],
+    "target_offset": [
+      -0.0819,
+      0.0296
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 11,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.64,
+    "tracking_error_cm_max": 6.36,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 11,
+    "cube": [
+      -0.1248,
+      -0.0731,
+      0.8285
+    ],
+    "target": [
+      0.0861,
+      0.0904,
+      0.8
+    ],
+    "cube_shift_cm": 14.8,
+    "target_shift_cm": 10.6,
+    "cube_offset": [
+      -0.1248,
+      0.0798
+    ],
+    "target_offset": [
+      0.0861,
+      -0.0626
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 12,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.6,
+    "tracking_error_cm_median": 1.58,
+    "tracking_error_cm_max": 6.12,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 12,
+    "cube": [
+      0.1129,
+      -0.2589,
+      0.8285
+    ],
+    "target": [
+      -0.0492,
+      0.069,
+      0.8
+    ],
+    "cube_shift_cm": 15.5,
+    "target_shift_cm": 9.7,
+    "cube_offset": [
+      0.1129,
+      -0.1059
+    ],
+    "target_offset": [
+      -0.0492,
+      -0.0839
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 13,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.8,
+    "tracking_error_cm_median": 1.82,
+    "tracking_error_cm_max": 7.91,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 13,
+    "cube": [
+      -0.0286,
+      -0.2253,
+      0.8285
+    ],
+    "target": [
+      -0.1228,
+      0.1722,
+      0.8
+    ],
+    "cube_shift_cm": 7.8,
+    "target_shift_cm": 12.4,
+    "cube_offset": [
+      -0.0286,
+      -0.0724
+    ],
+    "target_offset": [
+      -0.1228,
+      0.0193
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 14,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.76,
+    "tracking_error_cm_max": 6.67,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 14,
+    "cube": [
+      -0.0604,
+      -0.1117,
+      0.8285
+    ],
+    "target": [
+      -0.0901,
+      0.259,
+      0.8
+    ],
+    "cube_shift_cm": 7.3,
+    "target_shift_cm": 13.9,
+    "cube_offset": [
+      -0.0604,
+      0.0413
+    ],
+    "target_offset": [
+      -0.0901,
+      0.1061
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 15,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.71,
+    "tracking_error_cm_max": 10.24,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 15,
+    "cube": [
+      -0.0405,
+      -0.2476,
+      0.8285
+    ],
+    "target": [
+      0.0387,
+      0.2555,
+      0.8
+    ],
+    "cube_shift_cm": 10.3,
+    "target_shift_cm": 11.0,
+    "cube_offset": [
+      -0.0405,
+      -0.0947
+    ],
+    "target_offset": [
+      0.0387,
+      0.1025
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 16,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.4,
+    "tracking_error_cm_median": 1.53,
+    "tracking_error_cm_max": 5.41,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 16,
+    "cube": [
+      -0.0179,
+      -0.0438,
+      0.8285
+    ],
+    "target": [
+      -0.0,
+      0.135,
+      0.8
+    ],
+    "cube_shift_cm": 11.1,
+    "target_shift_cm": 1.8,
+    "cube_offset": [
+      -0.0179,
+      0.1091
+    ],
+    "target_offset": [
+      -0.0,
+      -0.0179
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 17,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.5,
+    "tracking_error_cm_max": 5.56,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 17,
+    "cube": [
+      0.0361,
+      -0.0341,
+      0.8285
+    ],
+    "target": [
+      0.1347,
+      0.1433,
+      0.8
+    ],
+    "cube_shift_cm": 12.4,
+    "target_shift_cm": 13.5,
+    "cube_offset": [
+      0.0361,
+      0.1188
+    ],
+    "target_offset": [
+      0.1347,
+      -0.0096
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 18,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.7,
+    "tracking_error_cm_max": 6.66,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 18,
+    "cube": [
+      0.0773,
+      -0.1536,
+      0.8285
+    ],
+    "target": [
+      0.0088,
+      0.2215,
+      0.8
+    ],
+    "cube_shift_cm": 7.7,
+    "target_shift_cm": 6.9,
+    "cube_offset": [
+      0.0773,
+      -0.0006
+    ],
+    "target_offset": [
+      0.0088,
+      0.0686
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 19,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.67,
+    "tracking_error_cm_max": 6.68,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 19,
+    "cube": [
+      -0.0256,
+      -0.0967,
+      0.8285
+    ],
+    "target": [
+      0.0633,
+      0.2566,
+      0.8
+    ],
+    "cube_shift_cm": 6.2,
+    "target_shift_cm": 12.2,
+    "cube_offset": [
+      -0.0256,
+      0.0563
+    ],
+    "target_offset": [
+      0.0633,
+      0.1037
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 20,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.82,
+    "tracking_error_cm_max": 7.87,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 20,
+    "cube": [
+      -0.1155,
+      -0.098,
+      0.8285
+    ],
+    "target": [
+      0.1282,
+      0.2652,
+      0.8
+    ],
+    "cube_shift_cm": 12.8,
+    "target_shift_cm": 17.0,
+    "cube_offset": [
+      -0.1155,
+      0.055
+    ],
+    "target_offset": [
+      0.1282,
+      0.1123
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 21,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.4,
+    "tracking_error_cm_median": 1.87,
+    "tracking_error_cm_max": 8.05,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 21,
+    "cube": [
+      -0.1456,
+      -0.0657,
+      0.8285
+    ],
+    "target": [
+      0.1444,
+      0.2627,
+      0.8
+    ],
+    "cube_shift_cm": 17.0,
+    "target_shift_cm": 18.1,
+    "cube_offset": [
+      -0.1456,
+      0.0873
+    ],
+    "target_offset": [
+      0.1444,
+      0.1097
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 22,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.3,
+    "tracking_error_cm_median": 1.75,
+    "tracking_error_cm_max": 6.96,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 22,
+    "cube": [
+      -0.1054,
+      -0.0395,
+      0.8285
+    ],
+    "target": [
+      0.117,
+      0.2303,
+      0.8
+    ],
+    "cube_shift_cm": 15.5,
+    "target_shift_cm": 14.0,
+    "cube_offset": [
+      -0.1054,
+      0.1134
+    ],
+    "target_offset": [
+      0.117,
+      0.0774
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 23,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.69,
+    "tracking_error_cm_max": 8.85,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 23,
+    "cube": [
+      -0.006,
+      -0.2172,
+      0.8285
+    ],
+    "target": [
+      0.0906,
+      0.2546,
+      0.8
+    ],
+    "cube_shift_cm": 6.5,
+    "target_shift_cm": 13.6,
+    "cube_offset": [
+      -0.006,
+      -0.0642
+    ],
+    "target_offset": [
+      0.0906,
+      0.1016
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 24,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.3,
+    "tracking_error_cm_median": 1.75,
+    "tracking_error_cm_max": 7.12,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 24,
+    "cube": [
+      -0.0702,
+      -0.1436,
+      0.8285
+    ],
+    "target": [
+      -0.0172,
+      0.2564,
+      0.8
+    ],
+    "cube_shift_cm": 7.1,
+    "target_shift_cm": 10.5,
+    "cube_offset": [
+      -0.0702,
+      0.0093
+    ],
+    "target_offset": [
+      -0.0172,
+      0.1034
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 25,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.3,
+    "tracking_error_cm_median": 1.62,
+    "tracking_error_cm_max": 5.95,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 25,
+    "cube": [
+      -0.1378,
+      -0.0973,
+      0.8285
+    ],
+    "target": [
+      0.0343,
+      0.0397,
+      0.8
+    ],
+    "cube_shift_cm": 14.9,
+    "target_shift_cm": 11.8,
+    "cube_offset": [
+      -0.1378,
+      0.0557
+    ],
+    "target_offset": [
+      0.0343,
+      -0.1132
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 26,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.63,
+    "tracking_error_cm_max": 7.34,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 26,
+    "cube": [
+      0.0658,
+      -0.2691,
+      0.8285
+    ],
+    "target": [
+      0.0774,
+      0.156,
+      0.8
+    ],
+    "cube_shift_cm": 13.3,
+    "target_shift_cm": 7.7,
+    "cube_offset": [
+      0.0658,
+      -0.1162
+    ],
+    "target_offset": [
+      0.0774,
+      0.0031
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 27,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.3,
+    "tracking_error_cm_median": 1.53,
+    "tracking_error_cm_max": 5.85,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 27,
+    "cube": [
+      0.1287,
+      -0.2571,
+      0.8285
+    ],
+    "target": [
+      0.1024,
+      0.0489,
+      0.8
+    ],
+    "cube_shift_cm": 16.6,
+    "target_shift_cm": 14.6,
+    "cube_offset": [
+      0.1287,
+      -0.1041
+    ],
+    "target_offset": [
+      0.1024,
+      -0.104
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 28,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.73,
+    "tracking_error_cm_max": 7.13,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 28,
+    "cube": [
+      -0.0467,
+      -0.1697,
+      0.8285
+    ],
+    "target": [
+      0.1398,
+      0.1679,
+      0.8
+    ],
+    "cube_shift_cm": 5.0,
+    "target_shift_cm": 14.1,
+    "cube_offset": [
+      -0.0467,
+      -0.0167
+    ],
+    "target_offset": [
+      0.1398,
+      0.0149
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 29,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.69,
+    "tracking_error_cm_max": 6.91,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 29,
+    "cube": [
+      -0.0723,
+      -0.2149,
+      0.8285
+    ],
+    "target": [
+      0.1164,
+      0.0871,
+      0.8
+    ],
+    "cube_shift_cm": 9.5,
+    "target_shift_cm": 13.4,
+    "cube_offset": [
+      -0.0723,
+      -0.062
+    ],
+    "target_offset": [
+      0.1164,
+      -0.0658
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 30,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.72,
+    "tracking_error_cm_max": 7.1,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 30,
+    "cube": [
+      -0.1126,
+      -0.2037,
+      0.8285
+    ],
+    "target": [
+      0.0258,
+      0.1659,
+      0.8
+    ],
+    "cube_shift_cm": 12.4,
+    "target_shift_cm": 2.9,
+    "cube_offset": [
+      -0.1126,
+      -0.0508
+    ],
+    "target_offset": [
+      0.0258,
+      0.013
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 31,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.7,
+    "tracking_error_cm_median": 1.65,
+    "tracking_error_cm_max": 5.83,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 31,
+    "cube": [
+      0.0929,
+      -0.1384,
+      0.8285
+    ],
+    "target": [
+      -0.0635,
+      0.132,
+      0.8
+    ],
+    "cube_shift_cm": 9.4,
+    "target_shift_cm": 6.7,
+    "cube_offset": [
+      0.0929,
+      0.0145
+    ],
+    "target_offset": [
+      -0.0635,
+      -0.0209
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 32,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.54,
+    "tracking_error_cm_max": 5.63,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 32,
+    "cube": [
+      0.0954,
+      -0.1226,
+      0.8285
+    ],
+    "target": [
+      0.1377,
+      0.1216,
+      0.8
+    ],
+    "cube_shift_cm": 10.0,
+    "target_shift_cm": 14.1,
+    "cube_offset": [
+      0.0954,
+      0.0304
+    ],
+    "target_offset": [
+      0.1377,
+      -0.0313
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 33,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.58,
+    "tracking_error_cm_max": 5.63,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 33,
+    "cube": [
+      0.0158,
+      -0.1304,
+      0.8285
+    ],
+    "target": [
+      0.1045,
+      0.0679,
+      0.8
+    ],
+    "cube_shift_cm": 2.8,
+    "target_shift_cm": 13.5,
+    "cube_offset": [
+      0.0158,
+      0.0225
+    ],
+    "target_offset": [
+      0.1045,
+      -0.0851
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 34,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.9,
+    "cube_to_target_cm": 1.6,
+    "tracking_error_cm_median": 1.76,
+    "tracking_error_cm_max": 6.1,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 34,
+    "cube": [
+      -0.028,
+      -0.0545,
+      0.8285
+    ],
+    "target": [
+      -0.1371,
+      0.2304,
+      0.8
+    ],
+    "cube_shift_cm": 10.2,
+    "target_shift_cm": 15.7,
+    "cube_offset": [
+      -0.028,
+      0.0984
+    ],
+    "target_offset": [
+      -0.1371,
+      0.0774
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 35,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.6,
+    "tracking_error_cm_median": 1.64,
+    "tracking_error_cm_max": 5.54,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 35,
+    "cube": [
+      -0.0254,
+      -0.0738,
+      0.8285
+    ],
+    "target": [
+      -0.147,
+      0.1205,
+      0.8
+    ],
+    "cube_shift_cm": 8.3,
+    "target_shift_cm": 15.1,
+    "cube_offset": [
+      -0.0254,
+      0.0792
+    ],
+    "target_offset": [
+      -0.147,
+      -0.0324
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 36,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.4,
+    "tracking_error_cm_median": 1.71,
+    "tracking_error_cm_max": 6.37,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 36,
+    "cube": [
+      -0.1264,
+      -0.1163,
+      0.8285
+    ],
+    "target": [
+      -0.0678,
+      0.2016,
+      0.8
+    ],
+    "cube_shift_cm": 13.2,
+    "target_shift_cm": 8.3,
+    "cube_offset": [
+      -0.1264,
+      0.0366
+    ],
+    "target_offset": [
+      -0.0678,
+      0.0486
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 37,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.8,
+    "cube_to_target_cm": 1.4,
+    "tracking_error_cm_median": 1.5,
+    "tracking_error_cm_max": 5.73,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 37,
+    "cube": [
+      0.1331,
+      -0.2425,
+      0.8285
+    ],
+    "target": [
+      0.1094,
+      0.0472,
+      0.8
+    ],
+    "cube_shift_cm": 16.0,
+    "target_shift_cm": 15.2,
+    "cube_offset": [
+      0.1331,
+      -0.0896
+    ],
+    "target_offset": [
+      0.1094,
+      -0.1057
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 38,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.3,
+    "tracking_error_cm_median": 1.66,
+    "tracking_error_cm_max": 7.66,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 38,
+    "cube": [
+      -0.0358,
+      -0.1698,
+      0.8285
+    ],
+    "target": [
+      -0.0033,
+      0.2673,
+      0.8
+    ],
+    "cube_shift_cm": 4.0,
+    "target_shift_cm": 11.4,
+    "cube_offset": [
+      -0.0358,
+      -0.0169
+    ],
+    "target_offset": [
+      -0.0033,
+      0.1144
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 39,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.78,
+    "tracking_error_cm_max": 8.41,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 39,
+    "cube": [
+      0.0827,
+      -0.1988,
+      0.8285
+    ],
+    "target": [
+      -0.069,
+      0.2401,
+      0.8
+    ],
+    "cube_shift_cm": 9.5,
+    "target_shift_cm": 11.1,
+    "cube_offset": [
+      0.0827,
+      -0.0459
+    ],
+    "target_offset": [
+      -0.069,
+      0.0871
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 40,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.66,
+    "tracking_error_cm_max": 7.49,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 40,
+    "cube": [
+      0.1144,
+      -0.1504,
+      0.8285
+    ],
+    "target": [
+      -0.0467,
+      0.2717,
+      0.8
+    ],
+    "cube_shift_cm": 11.4,
+    "target_shift_cm": 12.8,
+    "cube_offset": [
+      0.1144,
+      0.0026
+    ],
+    "target_offset": [
+      -0.0467,
+      0.1188
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 41,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.71,
+    "tracking_error_cm_max": 8.43,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 41,
+    "cube": [
+      -0.0552,
+      -0.2291,
+      0.8285
+    ],
+    "target": [
+      0.114,
+      0.2279,
+      0.8
+    ],
+    "cube_shift_cm": 9.4,
+    "target_shift_cm": 13.6,
+    "cube_offset": [
+      -0.0552,
+      -0.0761
+    ],
+    "target_offset": [
+      0.114,
+      0.075
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 42,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.1,
+    "tracking_error_cm_median": 1.58,
+    "tracking_error_cm_max": 5.88,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 42,
+    "cube": [
+      0.0504,
+      -0.0429,
+      0.8285
+    ],
+    "target": [
+      0.1277,
+      0.2125,
+      0.8
+    ],
+    "cube_shift_cm": 12.1,
+    "target_shift_cm": 14.1,
+    "cube_offset": [
+      0.0504,
+      0.11
+    ],
+    "target_offset": [
+      0.1277,
+      0.0596
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 43,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.9,
+    "tracking_error_cm_median": 1.71,
+    "tracking_error_cm_max": 7.46,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 43,
+    "cube": [
+      0.1082,
+      -0.2136,
+      0.8285
+    ],
+    "target": [
+      -0.1076,
+      0.1938,
+      0.8
+    ],
+    "cube_shift_cm": 12.4,
+    "target_shift_cm": 11.5,
+    "cube_offset": [
+      0.1082,
+      -0.0607
+    ],
+    "target_offset": [
+      -0.1076,
+      0.0408
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 44,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.5,
+    "tracking_error_cm_median": 1.75,
+    "tracking_error_cm_max": 9.73,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 44,
+    "cube": [
+      0.0644,
+      -0.2328,
+      0.8285
+    ],
+    "target": [
+      -0.0313,
+      0.2514,
+      0.8
+    ],
+    "cube_shift_cm": 10.3,
+    "target_shift_cm": 10.3,
+    "cube_offset": [
+      0.0644,
+      -0.0799
+    ],
+    "target_offset": [
+      -0.0313,
+      0.0985
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 45,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.6,
+    "tracking_error_cm_median": 1.66,
+    "tracking_error_cm_max": 6.06,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 45,
+    "cube": [
+      0.0184,
+      -0.1341,
+      0.8285
+    ],
+    "target": [
+      -0.0918,
+      0.1592,
+      0.8
+    ],
+    "cube_shift_cm": 2.6,
+    "target_shift_cm": 9.2,
+    "cube_offset": [
+      0.0184,
+      0.0188
+    ],
+    "target_offset": [
+      -0.0918,
+      0.0062
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 46,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.7,
+    "tracking_error_cm_max": 7.67,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 46,
+    "cube": [
+      0.007,
+      -0.2516,
+      0.8285
+    ],
+    "target": [
+      0.1446,
+      0.1701,
+      0.8
+    ],
+    "cube_shift_cm": 9.9,
+    "target_shift_cm": 14.6,
+    "cube_offset": [
+      0.007,
+      -0.0987
+    ],
+    "target_offset": [
+      0.1446,
+      0.0171
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 47,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.6,
+    "cube_to_target_cm": 1.4,
+    "tracking_error_cm_median": 1.81,
+    "tracking_error_cm_max": 7.63,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 47,
+    "cube": [
+      -0.1481,
+      -0.0875,
+      0.8285
+    ],
+    "target": [
+      0.1435,
+      0.1745,
+      0.8
+    ],
+    "cube_shift_cm": 16.2,
+    "target_shift_cm": 14.5,
+    "cube_offset": [
+      -0.1481,
+      0.0654
+    ],
+    "target_offset": [
+      0.1435,
+      0.0216
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 48,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.2,
+    "tracking_error_cm_median": 1.65,
+    "tracking_error_cm_max": 6.43,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 48,
+    "cube": [
+      -0.0541,
+      -0.2279,
+      0.8285
+    ],
+    "target": [
+      0.0518,
+      0.0798,
+      0.8
+    ],
+    "cube_shift_cm": 9.2,
+    "target_shift_cm": 9.0,
+    "cube_offset": [
+      -0.0541,
+      -0.075
+    ],
+    "target_offset": [
+      0.0518,
+      -0.0732
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  },
+  {
+    "seed": 49,
+    "success": true,
+    "lifted": true,
+    "placed": true,
+    "max_lift_cm": 13.7,
+    "cube_to_target_cm": 1.3,
+    "tracking_error_cm_median": 1.56,
+    "tracking_error_cm_max": 5.68,
+    "contact_fixes": true,
+    "points_changed": 76,
+    "points_total": 155,
+    "grip_pause_steps": 0,
+    "path_z_range_cm": [
+      2.3,
+      18.5
+    ],
+    "scene": 49,
+    "cube": [
+      0.0233,
+      -0.1284,
+      0.8285
+    ],
+    "target": [
+      0.1387,
+      0.0503,
+      0.8
+    ],
+    "cube_shift_cm": 3.4,
+    "target_shift_cm": 17.3,
+    "cube_offset": [
+      0.0233,
+      0.0245
+    ],
+    "target_offset": [
+      0.1387,
+      -0.1027
+    ],
+    "cube_range": [
+      0.15,
+      0.12
+    ],
+    "target_range": [
+      0.15,
+      0.12
+    ]
+  }
+]

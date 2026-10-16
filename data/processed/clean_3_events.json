@@ -1,0 +1,21 @@
+{
+  "clip": "clean_3",
+  "fps": 59.94337333153566,
+  "px_per_cm": 24.49,
+  "grasp_frame": 374,
+  "release_frame": 508,
+  "grasp_t": 6.239,
+  "release_t": 8.475,
+  "naive_grasp_t": 6.356,
+  "regrasp_detected": false,
+  "cube_start_px": [
+    755.7,
+    69.4
+  ],
+  "cube_end_px": [
+    194.7,
+    712.9
+  ],
+  "carry_cm": 34.9,
+  "warnings": []
+}
